@@ -2,7 +2,7 @@
 
 ## Overview of the World_Weather_Analysis:
 In this project we need to deliver below deliverables using API skills. Generated a set of 2,000 random latitudes and longitudes, retrieve the nearest
-citties, and perform an API call with the OpenWeatherMap to retrieve the data through API calls.
+citties, and perform an API call with the OpenWeatherMap to retrieve the data through API calls and JSON.
 Exported and read the CSV files. We helped Jack by creating PlanMyTrip app which can help Beta user to filter the data to identify potential travel 
 destinations and nearby hotels.It will help to create travel route between the cities. The Marker layer map can help users with the important information
 as added in the info box template.
